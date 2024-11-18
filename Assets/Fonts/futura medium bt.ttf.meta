@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d468414c0d99dd144ac6bda5889495b8
+guid: a247f2f94985d9b43a17f70c04e5de17
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Futura LtCn BT
+  - Futura Md BT
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

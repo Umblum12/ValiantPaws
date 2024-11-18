@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6f967123c367c142acaa857f3e2e671
+guid: 20fab2cc03bf3b34cad2c75896952fdf
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,13 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: a981580a218415145965418d49460ef2, type: 2}
+      name: Madera1
+    second: {fileID: 2100000, guid: aa515b89ce7f1b74192e2a585e3f2d6f, type: 2}
   - first:
-      type: UnityEngine:Texture2D
+      type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: texture_0
-    second: {fileID: 2800000, guid: 1aee1bd6ea6a0cb4faab798ed3a99992, type: 3}
+      name: Madera2
+    second: {fileID: 2100000, guid: 42fc69c8af4c239439206e22ab688414, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
