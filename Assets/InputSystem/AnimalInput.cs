@@ -103,8 +103,8 @@ public partial class @AnimalInput: IInputActionCollection2, IDisposable
             ""bindings"": [
                 {
                     ""name"": """",
-                    ""id"": ""c1007b24-5308-4587-b147-1003cf0a8243"",
-                    ""path"": ""<Gamepad>/leftStick"",
+                    ""id"": ""ea4af9b5-0d50-4e7e-b1fb-24a543dac4ee"",
+                    ""path"": ""<XInputController>/leftStick"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -114,8 +114,8 @@ public partial class @AnimalInput: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""ea4af9b5-0d50-4e7e-b1fb-24a543dac4ee"",
-                    ""path"": ""<XInputController>/leftStick"",
+                    ""id"": ""c1007b24-5308-4587-b147-1003cf0a8243"",
+                    ""path"": ""<Gamepad>/leftStick"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -236,7 +236,7 @@ public partial class @AnimalInput: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""bf9bf31c-3ac4-47be-82dd-b9cec8953068"",
-                    ""path"": ""<XInputController>/leftStick/down"",
+                    ""path"": ""<XInputController>/leftStickPress"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -279,6 +279,17 @@ public partial class @AnimalInput: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+                    ""id"": ""e8b12d0e-6234-4ad9-83f9-d5ec24e2c596"",
+                    ""path"": ""<XInputController>/rightStickPress"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""UnlockCam"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
                     ""id"": ""1468af02-0a50-4deb-906d-835f3a5812d2"",
                     ""path"": ""<Mouse>/scroll"",
                     ""interactions"": """",
@@ -292,6 +303,17 @@ public partial class @AnimalInput: IInputActionCollection2, IDisposable
                     ""name"": """",
                     ""id"": ""5158e4b1-7072-4c5c-9e0f-77a7631d62ba"",
                     ""path"": ""<Mouse>/delta"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""LookCam"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""1efa0fd0-4543-49e8-9d4d-971c828a14ac"",
+                    ""path"": ""<XInputController>/rightStick"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
